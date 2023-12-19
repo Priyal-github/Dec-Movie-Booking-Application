@@ -1,9 +1,19 @@
 
 folders: backend
 movies(frontend)
+BACKEND: - installation:
 installation: 
 npm i cors
 npm i express
 npm install nodemon
 npm i react-router-dom
 npm i mongodb
+npm i mongoose
+npm i dotenv
+npm i bcrypt
+npm i jsonwebtoken
+
+BACKEND: - installation:
+npm install @mui/material @emotion/react @emotion/styled
+npm i @mui/icons-material
+
